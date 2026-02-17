@@ -1,6 +1,7 @@
 # Data files
 *.csv
 MachineLearningCSV/
+Datsets/
 
 # Jupyter
 .ipynb_checkpoints/
